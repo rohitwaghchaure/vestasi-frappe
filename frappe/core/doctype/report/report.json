@@ -110,13 +110,14 @@
  ], 
  "icon": "icon-table", 
  "idx": 1, 
- "modified": "2014-06-03 07:25:41.509885", 
+ "modified": "2015-06-25 15:24:31.733164", 
  "modified_by": "Administrator", 
  "module": "Core", 
  "name": "Report", 
  "owner": "Administrator", 
  "permissions": [
   {
+   "apply_user_permissions": 0, 
    "create": 1, 
    "delete": 1, 
    "email": 1, 
